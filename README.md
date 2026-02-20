@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://ayen.in/images/logo.png" alt="Ayen Logo" width="120" />
+  <img src="https://ayen.in/ayen%20logo.png" alt="Ayen Logo" width="120" />
 </p>
 
 # Ayen Browser
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/ayen-official/ayen-browser/releases)
+[![Version](https://img.shields.io/badge/version-1.0.3-green.svg)](https://github.com/ayen-official/ayen-browser/releases)
 
 Ayen Browser is a fast, privacy-focused, and modern web browser natively built using Electron, React, and TypeScript. Designed for speed and minimal resource usage, it features a fluid tab management system, built-in telemetry blocking, and a premium aesthetic that prioritizes productivity.
 
